@@ -1,0 +1,33 @@
+STEP #1: Download and Install Python Version 3.7.0
+
+STEP #2: Install Python Libraries
+		sklearn-genetic
+		warmPackagePy
+		numpy==1.19.2
+		pandas==0.25.3
+		matplotlib==3.1.1
+		keras==2.3.1
+		tensorflow==1.14.0
+		opencv-python==4.1.1.26
+		protobuf==3.16.0
+		scikit-learn==0.22.2
+		seaborn==0.10.1
+		sklearn==0.0
+		opencv-contrib-python==4.3.0.36
+		urllib3==1.22
+
+STEP #3: Go To The Source Code Files
+
+STEP #4: Double Click On "run.bat" File To Run The Application
+
+STEP #5: Upload The Dataset For Training The Algorithms
+
+STEP #6: Click On "Run Genetic Algorithm" To Run The Genetic Algorithm
+
+STEP #7: Click On "Run BAT Algorithm" To Run The BAT Algorithm
+
+STEP #8: Click On "Run BEE Algorithm" To Run The BEE Algorithm
+
+STEP #9: Click On "Upload & Predit Test Data" To Upload and Predict With Test Data
+
+STEP #10: Click On "Accuracy Graph" To Compare The Accuracy Of The Algorithms With Graph
