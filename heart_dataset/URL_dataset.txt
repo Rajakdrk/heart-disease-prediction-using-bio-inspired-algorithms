@@ -1,1 +1,1 @@
-https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+https://www.kaggle.com/datasets/juledz/heart-attack-prediction

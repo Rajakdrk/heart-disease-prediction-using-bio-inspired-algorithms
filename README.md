@@ -8,15 +8,8 @@ STEP #2: Install Python Libraries
 		numpy==1.19.2
 		pandas==0.25.3
 		matplotlib==3.1.1
-		keras==2.3.1
-		tensorflow==1.14.0
-		opencv-python==4.1.1.26
-		protobuf==3.16.0
 		scikit-learn==0.22.2
-		seaborn==0.10.1
 		sklearn==0.0
-		opencv-contrib-python==4.3.0.36
-		urllib3==1.22
 
 STEP #3: Go To The Source Code Files
 

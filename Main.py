@@ -40,7 +40,7 @@ def upload():
     filename = filedialog.askopenfilename(initialdir="heart_dataset")
     pathlabel.config(text=filename)
     text.delete('1.0', END)
-    text.insert(END,filename+" loaded\n");
+    text.insert(END,filename+" loaded\n")
                         
 
 
@@ -75,7 +75,7 @@ def geneticAlgorithm():
 
     selector = GeneticSelectionCV(estimator,
                                   cv=5,
-                                  verbose=1,
+                                  verbose=0,
                                   scoring="accuracy",
                                   max_features=10,
                                   n_population=50,
